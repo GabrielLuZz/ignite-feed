@@ -1,0 +1,3 @@
+esse projeto é um feed em react feito no curso do ignite da rocketseat feito no começo da trilha nova. ele é o primeiro projeto para treinar as primeiras habilidades em react. a estilização foi feita com css modules para garantir um css escoped, feito com typescypt, com dados mockados.
+
+de novo foi utilizado as bibliotecas phosphor-react (biblioteca de icones) e date-fns(biblioteca de formatar datas).

@@ -10,7 +10,7 @@ export function Sidebar() {
       <img className={styles.cover} src={coverSidebar} alt="" />
 
       <div className={styles.profile}>
-        <Avatar source="https://github.com/GabrielLuZz.png" />
+        <Avatar src="https://github.com/GabrielLuZz.png" alt='' />
         <strong>Gabriel Luz</strong>
         <span>Web Developer</span>
       </div>
